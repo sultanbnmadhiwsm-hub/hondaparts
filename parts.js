@@ -27,6 +27,102 @@ export const parts = {
         stock: "متوفر",
         image: "images/no-image.png",
         url:"https://متجري.salla.sa/..."
-    }
+    },
 
+
+    
+    "Back_Door_car_paint_0": {
+        name: "باب خلفي ",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+     "Front_Bumper001_car_paint_0": {
+        name: "صدام امامي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+        "Front_BumperCover_Rubber_0": {
+        name: "اشعار هوندا اكورد",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+    "Front_Grill_mirror_chrome_0": {
+        name: "زيق شبك امامي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+        "headlight_cover_Material006_0": {
+        name: "شمعة امامي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+        "Side_mirrors_car_paint_0": {
+        name: "مراية",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+        "Tail_lights_taillight_0": {
+        name: " اصطب خلفي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+        "rear_Bumper_car_paint_0": {
+        name: " صدام خلفي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+
+     "Rear_light_2_taillight_0": {
+        name: "اصطب شنطه",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
+
+
+    "Rear_Windsheild_glass_0": {
+        name: "قزاز خلفي",
+        price: 950,
+        number: "73211",
+        stock: "متوفر",
+        image: "images/no-image.png",
+        url:"https://متجري.salla.sa/..."
+    },
 };
+
+
+

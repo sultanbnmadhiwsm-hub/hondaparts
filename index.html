@@ -8,7 +8,28 @@
 
     <link rel="stylesheet" href="style.css">
 </head>
+<div id="devPanel" style="
+position:fixed;
+left:20px;
+bottom:20px;
+background:#222;
+color:#fff;
+padding:15px;
+border-radius:10px;
+display:none;
+z-index:9999;
+">
 
+<p>الكاميرا Z</p>
+<input id="camZ" type="range" min="2" max="15" step="0.1" value="6">
+
+<p>الكاميرا Y</p>
+<input id="camY" type="range" min="0" max="6" step="0.1" value="2">
+
+<p>Scale</p>
+<input id="scale" type="range" min="0.5" max="2" step="0.01" value="1">
+
+</div>
 <body>
 
 <header>
@@ -22,21 +43,24 @@
         <h2>اختر سيارتك</h2>
 
         <label>الشركة</label>
-        <select>
-            <option>Honda</option>
+        <select id="brand">
+            <option value="Honda">Honda</option>
         </select>
 
         <label>الموديل</label>
-        <select>
-            <option>Accord</option>
+        <select id="model">
+            <option value="Accord">Accord</option>
         </select>
 
         <label>السنة</label>
-        <select>
-            <option>2024</option>
-            <option>2023</option>
-            <option>2022</option>
-            <option>2021</option>
+        <select id="year">
+            <option value="2007">2007</option>
+            <option value="2008">2008</option>
+            <option value="2017" selected>2017</option>
+
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2024">2024</option>
         </select>
 
         <div class="car">
@@ -86,5 +110,4 @@
 <script type="module" src="script.js"></script>
 
 </body>
-
 </html>
