@@ -15,8 +15,8 @@ front_Bumper: {
     price: "2300 ريال",
     number: "60100",
     stock: "متوفر",
-    image: "images/hood.jpg",
-    url: "https://yourstore.com/hood"
+    image: "https://cdn.salla.sa/Qdovar/10190c79-1c14-410c-9fc6-708e29ee6851-1000x1000-EDA6dTgwXrHhUoMx0RVprxKxUyQcBLmv7Eqn7SmM.png",
+    url: "https://wesamsa.com/ar/%D9%83%D8%A8%D9%88%D8%AA-%D9%87%D9%88%D9%86%D8%AF%D8%A7-%D8%A7%D9%83%D9%88%D8%B1%D8%AF-2018-2021-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86/p50853430?from=search-bar"
   },
 
   windshield: {
@@ -172,10 +172,10 @@ Rear_Bumper: {
     price: "2300 ريال",
 
     stock: "متوفر",
+  url:"https://wesamsa.com/ar/%D9%83%D8%A8%D9%88%D8%AA-%D9%87%D9%88%D9%86%D8%AF%D8%A7-%D8%A7%D9%83%D9%88%D8%B1%D8%AF-2018-2021-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86/p50853430?from=search-bar",
+    image: "https://cdn.salla.sa/Qdovar/10190c79-1c14-410c-9fc6-708e29ee6851-1000x1000-EDA6dTgwXrHhUoMx0RVprxKxUyQcBLmv7Eqn7SmM.png",
 
-    image: "images/hood.jpg",
-
-    description: "",
+    description: "يُعد كبوت هوندا اكورد 2018-2021 تايوان خيارًا مناسبًا لاستعادة المظهر الأمامي للسيارة وحمايتها،",
 
     related: [
     {
